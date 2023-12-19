@@ -1,2 +1,5 @@
 # This is H1 Header practice
 ### This is H3 Header practice
+
+#### Adding an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
